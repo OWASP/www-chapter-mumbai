@@ -11,13 +11,13 @@
 
 * [Twitter](https://twitter.com/OWASP_Mumbai)
 
-* [Discord] (https://discord.gg/8z2bJDJ)
+* [Discord](https://discord.gg/8z2bJDJ)
  
 
 ### Become speaker
 
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
-* [Speaker Submissions] (https://forms.gle/1d6v3S5kDcfLgYFw7)
+* [Speaker Submissions](https://forms.gle/1d6v3S5kDcfLgYFw7)
 
 ### useful Links
 * [Become a Member](https://www.owasp.org/index.php/Membership)
