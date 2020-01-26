@@ -2,7 +2,7 @@
 * Chapter Region -->
 
 
-![OWASP Mumbai Chapter](https://github.com/OWASP/www-chapter-mumbai/blob/master/assets/images/OWASP_Mumbai_Logo_YR.png)
+![OWASP Mumbai Chapter](/assets/images/OWASP_Mumbai_Logo_YR.png)
 # OWASP Mumbai Chapter
 
 ### Social Links
