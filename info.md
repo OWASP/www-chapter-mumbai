@@ -19,7 +19,7 @@
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 * [Speaker Submissions](https://forms.gle/1d6v3S5kDcfLgYFw7)
 
-### useful Links
+### Useful Links
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
