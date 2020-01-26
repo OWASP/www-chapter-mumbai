@@ -17,4 +17,4 @@ region: Asia
 ### Our Supporters
 A Special thanks to Network Intelligence India (NII) for being a generous host to the OWASP Meetups
 
-[Network Intelligence](NII.png)
+![Network Intelligence](NII.png)
