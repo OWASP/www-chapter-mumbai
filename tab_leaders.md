@@ -16,7 +16,7 @@ When I am not researching / studying / learning. You can find me either watching
 Favorite topics: Penetration Testing, Red Teaming, OSINT and Recon.
 
 [Blog](https://acc3ssp0int.com)<br>
-#### Contact: yash.roongta@owasp.org
+#### Contact yash.roongta@owasp.org
  
 [Twitter](https://twitter.com/acc3ssp0int)
 
@@ -24,10 +24,10 @@ Favorite topics: Penetration Testing, Red Teaming, OSINT and Recon.
 Working in the field of Cyber Security from 3 years . Focus areas include AppSec and Source code review. 
 Look forward to learning more about other areas in security
 Favorite topic: Web Application testing,Source Code Review.
-In my free time I enjoy reading books (Genre: psychological, mystery)
+In my free time I enjoy reading books (Genre- psychological, mystery)
 
 [Twitter](https://twitter.com/anantjoshi13)<br>
-#### Contact: anant.joshi@owasp.org
+#### Contact anant.joshi@owasp.org
 
 # Current Chapter Volunteers
 
