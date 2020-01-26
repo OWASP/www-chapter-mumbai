@@ -1,8 +1,10 @@
 ---
+
 title: Chapter Leaders
 tab: true
 order: 1
-tags: Leaders
+tags: leaders
+
 ---
 
 
