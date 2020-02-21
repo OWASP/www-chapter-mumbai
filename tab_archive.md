@@ -8,6 +8,17 @@ tags: Mum
 
 # **Archives**
 
+### 25th January 2020
+
+Details of the previous OWASP Mumbai meeting as below. Please follow the [link](https://drive.google.com/open?id=1HGheKp1NKjVP278WQFaQ-roaNiu5Lvxn) for the slides.
+
+Introduction to OWASP Mumbai Chapter.
+
+An Introduction to OT Security by **Ravindra Gotavde**
+
+Reporting and Handling Internet Crimes by **Amol Potdar**
+
+Exploiting misconfigurations in S3 buckets by **Vaibhav Koli**
 ### 30th November 2019
 
 Details of the previous OWASP Mumbai meeting as below. Please follow the [link](https://drive.google.com/open?id=17FQoH46vQaqc5ag8wtAS6WuYlGngPt3u) for the slides.
