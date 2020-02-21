@@ -18,7 +18,7 @@ Firmware Analysis by **Pratik Chotaliya**
 
 Report Writing in Cyber Security by **Ashwini Varadkar**
 
-Attack SiEmulation by **Chirag Savla**
+Attack Si|Emulation by **Chirag Savla**
 
 ### 19th October 2019
 
