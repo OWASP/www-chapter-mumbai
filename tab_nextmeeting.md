@@ -15,7 +15,7 @@ Session Details:
 
 Introduction to OWASP Mumbai Chapter.
 
-An Introduction to SOC by **Vrushali Samant**
+An Introduction to SOC by **Vrushali Sawant**
 
 The difference between Information Gathering & Intelligence Gathering by **Shivani Mohit**
 
