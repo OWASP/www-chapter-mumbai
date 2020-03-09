@@ -15,11 +15,11 @@ Session Details:
 
 Introduction to OWASP Mumbai Chapter.
 
-An Introduction to SOC by **Vrushali Samant
+An Introduction to SOC by **Vrushali Samant**
 
-The difference between Information Gathering & Intelligence Gathering by **Shivani Mohit
+The difference between Information Gathering & Intelligence Gathering by **Shivani Mohit**
 
-Basics of a Red Team Engagement **Aayush Jain
+Basics of a Red Team Engagement **Aayush Jain**
 
 QnA, General Discussion and Feedback.
 
