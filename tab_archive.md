@@ -8,6 +8,20 @@ tags: Mum
 
 # **Archives**
 
+### 29th February 2020
+
+Introduction to OWASP Mumbai Chapter.
+
+An Introduction to SOC by **Vrushali Sawant**
+
+The difference between Information Gathering & Intelligence Gathering by **Shivani Mohit**
+
+Basics of a Red Team Engagement **Aayush Jain**
+
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/269000992/)
+
+Details of the previous OWASP Mumbai meeting as below. Please follow the [here](https://drive.google.com/file/d/18iMe-lUDKHOEjsUp_8RZSBq04TdmwvEh)
+
 ### 25th January 2020
 
 Details of the previous OWASP Mumbai meeting as below. Please follow the [link](https://drive.google.com/open?id=1HGheKp1NKjVP278WQFaQ-roaNiu5Lvxn) for the slides.
@@ -19,6 +33,7 @@ An Introduction to OT Security by **Ravindra Gotavde**
 Reporting and Handling Internet Crimes by **Amol Potdar**
 
 Exploiting misconfigurations in S3 buckets by **Vaibhav Koli**
+
 ### 30th November 2019
 
 Details of the previous OWASP Mumbai meeting as below. Please follow the [link](https://drive.google.com/open?id=17FQoH46vQaqc5ag8wtAS6WuYlGngPt3u) for the slides.
