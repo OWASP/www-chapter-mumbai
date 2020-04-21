@@ -9,22 +9,15 @@ tags: Mum
 
 ### **Sessions**
 
-### 29th February 2020
+### 25th April 2020
 
 Session Details:
 
 Introduction to OWASP Mumbai Chapter.
 
-An Introduction to SOC by **Vrushali Sawant**
+An Introduction to Data-Exfiltration by **Rohan Rane**
 
-The difference between Information Gathering & Intelligence Gathering by **Shivani Mohit**
+Anti-Reversing by **Adhokshaj Mishra**
 
-Basics of a Red Team Engagement **Aayush Jain**
-
-QnA, General Discussion and Feedback.
-
-Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/269000992/)
-
-
-Slides from the Presentation [here](https://drive.google.com/file/d/18iMe-lUDKHOEjsUp_8RZSBq04TdmwvEh)
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/270180364/)
 
