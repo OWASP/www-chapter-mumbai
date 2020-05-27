@@ -8,6 +8,19 @@ tags: Mum
 
 # **Archives**
 
+### 25th April 2020
+
+Session Details:
+
+Introduction to OWASP Mumbai Chapter.
+
+An Introduction to Data-Exfiltration by **Rohan Rane**
+
+Anti-Reversing by **Adhokshaj Mishra**
+
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/270180364/)
+
+
 ### 29th February 2020
 
 Introduction to OWASP Mumbai Chapter.
