@@ -9,15 +9,17 @@ tags: Mum
 
 ### **Sessions**
 
-### 25th April 2020
+### 30th May 2020
 
 Session Details:
 
 Introduction to OWASP Mumbai Chapter.
 
-An Introduction to Data-Exfiltration by **Rohan Rane**
+Digital Forensics & Incident Response **Lionel Faleiro**
 
-Anti-Reversing by **Adhokshaj Mishra**
+Why ICS can't toe the IT line? - Essence of ICS security posture **Sudhendu**
 
-Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/270180364/)
+Malware for Fun and Profit **Adhokshaj Mishra**
+
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/270909144/)
 
