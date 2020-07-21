@@ -9,17 +9,13 @@ tags: Mum
 
 ### **Sessions**
 
-### 30th May 2020
+### 25th July 2020
 
 Session Details:
 
 Introduction to OWASP Mumbai Chapter.
 
-Digital Forensics & Incident Response **Lionel Faleiro**
+Cyber Security and ICS by **Ashwani Kumar**
 
-Why ICS can't toe the IT line? - Essence of ICS security posture **Sudhendu**
-
-Malware for Fun and Profit **Adhokshaj Mishra**
-
-Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/270909144/)
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/272063155/)
 
