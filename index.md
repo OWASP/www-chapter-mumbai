@@ -7,6 +7,9 @@ level: 0
 
 region: Asia
 
+meetup-group: OWASP-Mumbai-Chapter
+country: India
+postal-code: 
 
 ---
 
