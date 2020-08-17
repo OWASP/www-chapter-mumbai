@@ -7,15 +7,16 @@ tags: Mum
 
 # **Next Meeting**
 
-### **Sessions**
+Venue: Online | Google Meet (Refer RSVP on meetup for details)
 
-### 25th July 2020
-
-Session Details:
+### Session
 
 Introduction to OWASP Mumbai Chapter.
 
-Cyber Security and ICS by **Ashwani Kumar**
+Enforcing Code & Security Standards with Semgrep **Luke O'Malley**
 
-Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/272063155/)
+General Discussion, QnA & Feedback
 
+**Abstract:**
+Semgrep is a free open-source program analysis toolkit that finds bugs using custom analysis we’ve written and OSS code checks.
+Semgrep is ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
