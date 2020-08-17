@@ -22,4 +22,4 @@ Semgrep is a free open-source program analysis toolkit that finds bugs using cus
 Semgrep is ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
 
 
-Meetup [Link] (https://www.meetup.com/OWASP-Mumbai-Chapter/events/272634319)
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/272634319)
