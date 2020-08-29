@@ -23,3 +23,5 @@ Semgrep is ideal for security researchers, product security engineers, and devel
 
 
 Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/272634319)
+
+Presentation [Link](https://drive.google.com/file/d/1r9gol3U1JwVoRDjidmMe3NAgPeq9q5ET/view)
