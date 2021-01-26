@@ -7,19 +7,21 @@ tags: Mum
 
 # **Next Meeting**
 
-### OWASP Mumbai Online Meetup - 28th November 2020
+### OWASP Mumbai Online Meetup - 30th January 2021
 Venue: Online | Google Meet (Refer RSVP on meetup for details)
 
 ### Session
-From 11:00 am to 12:30 PM
+From 12:00 PM to 1:30 PM
 
 Session Details:
 
 Introduction to OWASP Mumbai Chapter.
 
-An Introduction Buffer Overflow Attacks by **Yash**
+Field Updates with **Rohan Rane**.
 
-General Discussion and Feedback
+Intro OSINT in real life by **Ashwani Kumar**.
+
+General Discussion, QnA & Feedback
 
 
-Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/274801133/)
+Meetup [Link](hhttps://www.meetup.com/OWASP-Mumbai-Chapter/events/275987610/)
