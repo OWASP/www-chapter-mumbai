@@ -7,6 +7,16 @@ tags: Mum
 
 # **Archives**
 
+### November 2020
+
+Session Details:
+
+Introduction to OWASP Mumbai Chapter.
+
+An Introduction Buffer Overflow Attacks by **Yash**
+
+General Discussion and Feedback
+
 ### August 2020
 
 Session Details
