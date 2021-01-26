@@ -24,4 +24,4 @@ Intro OSINT in real life by **Ashwani Kumar**.
 General Discussion, QnA & Feedback
 
 
-Meetup [Link](hhttps://www.meetup.com/OWASP-Mumbai-Chapter/events/275987610/)
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/275987610/)
