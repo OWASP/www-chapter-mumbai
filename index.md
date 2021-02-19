@@ -12,9 +12,11 @@ country: India
 postal-code: 
 
 ---
+## Welcome
+Welcome to the OWASP Mumbai Chapter home page!
 
-
-### The OWASP chapters strives to share the knowledge for cyber security, and spread cyber awareness, free of cost.
+The OWASP Sydney Chapter has been active & rebooted in August 2019 \We organise local events throughout the year.
+Your chapter leaders are Yash Roongta[https://twitter.com/acc3ssp0int], and Anantkumar Joshi[https://twitter.com/w1r3sh65rk]
 
 ## Our Goals
 ### Equality
