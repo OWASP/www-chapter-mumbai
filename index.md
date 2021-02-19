@@ -25,7 +25,7 @@ We aim to bring together people from research, academia and industry to motivate
 ### Education
 We are committed to helping discover the next generation of cybersecurity talent. We aim to offer mentorship programs to educate those new to cybersecurity, and provide talks from industry professionals to showcase all cybersecurity has to offer.
 
-### Community
+### Community Engagement
 We want to help you connect with like-minded individuals. Whether you are new to cybersecurity or a seasoned veteran, our goal is to build a community where everyone can openly discuss and explore current issues in cybersecurity, employment opportunities and more. By providing networking opportunities, we want everyone to get involved in the community and establish relationships with new people.
 
 
