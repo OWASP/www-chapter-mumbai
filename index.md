@@ -16,7 +16,7 @@ postal-code:
 Welcome to the OWASP Mumbai Chapter home page!
 
 The OWASP Sydney Chapter has been active & rebooted in August 2019 \We organise local events throughout the year.
-Your chapter leaders are Yash Roongta[https://twitter.com/acc3ssp0int], and Anantkumar Joshi[https://twitter.com/w1r3sh65rk]
+Your chapter leaders are Yash Roongta[Link](https://twitter.com/acc3ssp0int), and Anantkumar Joshi[Link([https://twitter.com/w1r3sh65rk)
 
 ## Our Goals
 ### Equality
