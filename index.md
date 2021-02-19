@@ -15,7 +15,7 @@ postal-code:
 ## Welcome
 Welcome to the OWASP Mumbai Chapter home page!
 
-The Mumbai Chapter has been active & rebooted in August 2019 \We organise local events throughout the year.
+The Mumbai Chapter has been active & rebooted in August 2019. We organise local events throughout the year, the talks are hosted once a month on the fourth Saturday/
 Your chapter leaders are [Yash Roongta](https://twitter.com/acc3ssp0int), and [Anantkumar Joshi](https://twitter.com/w1r3sh65rk)
 
 ## Our Goals
