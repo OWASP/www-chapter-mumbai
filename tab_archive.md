@@ -7,6 +7,18 @@ tags: Mum
 
 # **Archives**
 
+### January 2021
+
+Session Details:
+
+Introduction to OWASP Mumbai Chapter.
+
+Field Updates with **Rohan Rane**.
+
+Intro OSINT in real life by **Ashwani Kumar**.
+
+General Discussion, QnA & Feedback
+
 ### November 2020
 
 Session Details:
