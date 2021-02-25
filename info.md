@@ -11,7 +11,7 @@
 
 * [Twitter](https://twitter.com/OWASP_Mumbai)
 
-* [Discord](https://discord.gg/8z2bJDJ)
+* To Join the WhatsApp Group, Message Any of the Chapter Leads
  
 
 ### Become speaker
