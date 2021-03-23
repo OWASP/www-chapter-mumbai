@@ -7,6 +7,23 @@ tags: Mum
 
 # **Archives**
 
+### February 2021
+
+### Session
+Session Details:
+
+Introduction to OWASP Mumbai Chapter.
+
+Field Updates with **Anantkumar Joshi**.
+
+The Dark Arts of SSH by **Karan**.
+An exploration of port forwarding, tunneling, pivoting behind enemy lines, and seamless Data Exfiltration.
+
+General Discussion, QnA & Feedback
+
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/276493281/)
+
+
 ### January 2021
 
 Session Details:
