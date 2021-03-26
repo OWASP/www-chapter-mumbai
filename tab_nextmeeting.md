@@ -19,7 +19,7 @@ Introduction to OWASP Mumbai Chapter.
 
 Newsbytes with **Kalyani Devgade**
 
-Careers in Cyber Security by **Nikhil Chodankar**
+Making a career in Security Solutions by **Nikhil Chodankar**
 
 Mastering the Art of Executive Presence with **Bishakha Jain**
 
