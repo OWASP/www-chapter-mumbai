@@ -7,6 +7,21 @@ tags: Mum
 
 # **Archives**
 
+### March 2021
+
+### Session
+Session Details:
+
+Newsbytes with **Kalyani Devgade**
+
+aking a career in Security Solutions by **Nikhil Chodankar**
+
+Mastering the Art of Executive Presence with **Bishakha Jain**
+
+General Discussion, QnA & Feedback
+
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/277112516/)
+
 ### February 2021
 
 ### Session
