@@ -7,8 +7,8 @@ tags: Mum
 
 # **Next Meeting**
 
-### OWASP Mumbai Online Meetup - 29th May 2021
-#### Time: 12:00PM - 2:30PM
+### OWASP Mumbai Online Meetup - 31st July 2021
+#### Time: 12:00PM - 1:00PM
 
 Venue: Online | Google Meet (Refer RSVP on meetup for details)
 
@@ -17,13 +17,11 @@ Session Details:
 
 Introduction to OWASP Mumbai Chapter.
 
-Penetration Testing v/s Red Teaming by **Dhiraj Datar**
-
-Threat Hunting 101 by **Arpan Raval**
+Introduction Android mobile application security testing by **Partho Mandal**
 
 General Discussion, QnA & Feedback
 
-Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/278303331/)
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/279739388/)
 
 
 
