@@ -7,14 +7,14 @@ tags: Mum
 
 # **Next Meeting**
 
-### OWASP Mumbai Online Meetup - 29th January 2022
+### OWASP Mumbai Online Meetup - 30th April 2022
 #### Time: 12:00PM - 1:00PM
 
-Venue: Online | Google Meet (Refer RSVP on meetup for details)
+Venue: Online | Zoom (Refer RSVP on meetup for details)
 
 ### Session
-Automation in Bug Bounty by **Rohit Gautam**
+Introduction to Secure Code Review **Anantkumar Joshi**
 
 General Discussion, QnA & Feedback
 
-Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/283441581)
+Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/285309878)
