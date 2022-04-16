@@ -6,7 +6,46 @@ tags: Mum
 ---
 
 # **Archives**
+### January 2022
 
+### Session
+Session
+Automation in Bug Bounty by Rohit Gautam
+
+General Discussion, QnA & Feedback
+
+### September 2021
+
+### Session
+Session Details:
+
+Introduction to OWASP Mumbai Chapter.
+
+Stranger Danger: Finding Security Vulns Before They Find You! by **Steve Coochin**
+
+Building a hacker mindset and recon for bounties by **Manas Harsh**
+
+General Discussion, QnA & Feedback
+### July 2021
+
+### Session
+Introduction to OWASP Mumbai Chapter.
+
+Introduction Android mobile application security testing by **Partho Mandal**
+
+QnA & Feedback.
+### May 2021
+
+### Session
+Session Details:
+
+Introduction to OWASP Mumbai Chapter.
+
+Penetration Testing v/s Red Teaming by **Dhiraj Datar**
+
+Threat Hunting 101 by Arpan Raval
+
+General Discussion, QnA & Feedback
 ### March 2021
 
 ### Session
