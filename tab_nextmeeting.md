@@ -7,7 +7,7 @@ tags: Mum
 
 # **Next Meeting**
 
-### OWASP Mumbai Online Meetup - 30th April 2022
+### OWASP Mumbai Online Meetup - 2nd July 2022
 #### Time: 12:00PM - 1:00PM
 
 Venue: Online | Zoom (Refer RSVP on meetup for details)
