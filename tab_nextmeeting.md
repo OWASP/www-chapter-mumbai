@@ -12,9 +12,12 @@ tags: Mum
 
 Venue: Online | Zoom (Refer RSVP on meetup for details)
 
-### Session
-Introduction to Secure Code Review **Anantkumar Joshi**
+### Session Details
+
+Introduction to OWASP Mumbai Chapter.
+
+API Attack and Defense by **Sanjeev Kumar**
 
 General Discussion, QnA & Feedback
 
-Meetup [Link](https://www.meetup.com/OWASP-Mumbai-Chapter/events/285309878)
+Meetup [Link](https://www.meetup.com/owasp-mumbai-chapter/events/286707575/)
