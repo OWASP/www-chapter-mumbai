@@ -7,7 +7,7 @@ tags: Mum
 
 # **Next Meeting**
 
-### OWASP Mumbai Online Meetup - 2nd July 2022
+### OWASP Mumbai Online Meetup - 1st October 2022
 #### Time: 12:00PM - 1:00PM
 
 Venue: Online | Zoom (Refer RSVP on meetup for details)
@@ -16,8 +16,8 @@ Venue: Online | Zoom (Refer RSVP on meetup for details)
 
 Introduction to OWASP Mumbai Chapter.
 
-API Attack and Defense by **Sanjeev Kumar**
+Insights into HTTP Smuggling Attack by **Anantkumar Joshi**
 
 General Discussion, QnA & Feedback
 
-Meetup [Link](https://www.meetup.com/owasp-mumbai-chapter/events/286707575/)
+Meetup [Link](https://www.meetup.com/owasp-mumbai-chapter/events/288688316)
