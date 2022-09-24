@@ -7,6 +7,9 @@ tags: Mum
 
 # **Archives**
 
+### July 2022
+Cancelled due to speaker unavailability in the last moment.
+
 ### April 2022
 
 ### Session
