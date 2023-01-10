@@ -7,6 +7,15 @@ tags: Mum
 
 # **Archives**
 
+
+### October 2022
+
+### Session
+
+Insights into HTTP Smuggling Attack by **Anantkumar Joshi**
+
+General Discussion, QnA & Feedback
+
 ### July 2022
 Cancelled due to speaker unavailability in the last moment.
 
