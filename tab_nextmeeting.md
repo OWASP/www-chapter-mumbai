@@ -7,7 +7,7 @@ tags: Mum
 
 # **Next Meeting**
 
-### OWASP Mumbai Online Meetup - 28th January 2023 -- Cancelled Due to Speaker Unavailability.
+### OWASP Mumbai Online Meetup | 18th March 2023
 
 #### Session Details:
 
