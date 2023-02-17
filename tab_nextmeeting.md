@@ -14,7 +14,9 @@ tags: Mum
 Introduction to OWASP Mumbai
 
 **Talk:-** How to build an efficient security automation strategy and teams for your organization?
-**Speaker:-**  Prashant Baliga *Palo Alto Networks*
+
+
+**Speaker:-**  Prashasth Baliga *Palo Alto Networks*
 
 QnA and FeedBack
 
