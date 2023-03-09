@@ -4,12 +4,9 @@ layout: col-sidebar
 title: OWASP Mumbai
 tags: Mum
 level: 0
-
 region: Asia
+meetup-group: owasp-mumbai-chapter
 
-meetup-group: OWASP-Mumbai-Chapter
-country: India
-postal-code: 
 
 ---
 ## Welcome
@@ -27,6 +24,10 @@ We are committed to helping discover the next generation of cybersecurity talent
 
 ### Community Engagement
 We want to help you connect with like-minded individuals. Whether you are new to cybersecurity or a seasoned veteran, our goal is to build a community where everyone can openly discuss and explore current issues in cybersecurity, employment opportunities and more. By providing networking opportunities, we want everyone to get involved in the community and establish relationships with new people.
+
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
 
 
 ## Our Supporters
