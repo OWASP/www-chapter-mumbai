@@ -7,6 +7,13 @@ tags: Mum
 
 # **Archives**
 
+### March 2023
+
+### Session
+
+Talk:- How to build an efficient security automation strategy and teams for your organization?
+
+Speaker:- Prashasth Baliga Palo Alto Networks
 
 ### October 2022
 
