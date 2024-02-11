@@ -19,4 +19,4 @@ Introduction to OWASP Mumbai
 QnA and FeedBack
 
 
-RSVP [Link](https://www.meetup.com/owasp-mumbai-chapter/events/297212098/) 
+RSVP [Link](https://www.meetup.com/owasp-mumbai-chapter/events/299130426/)
