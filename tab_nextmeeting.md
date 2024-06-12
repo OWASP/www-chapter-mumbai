@@ -7,16 +7,16 @@ tags: Mum
 
 # **Next Meeting**
 
-### OWASP Mumbai Online Meetup | 24th February 2024 [Virtual]
+### OWASP Mumbai Online Meetup | 29th June 2024
 
 #### Session Details:
 
 Introduction to OWASP Mumbai
 
-**Talk:-** Lessons Learned from past Cyber Ransomware Incident Pharma Sector
-**Speaker:-**  Ravindra
+**Talk:-** How to be a Malware Researcher
+**Speaker:-**  Adhokshaj Mishra
 
 QnA and FeedBack
 
 
-RSVP [Link](https://www.meetup.com/owasp-mumbai-chapter/events/299130426/)
+RSVP [Link](https://www.meetup.com/owasp-mumbai-chapter/events/301597640)
