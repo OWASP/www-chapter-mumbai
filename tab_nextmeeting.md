@@ -7,8 +7,7 @@ tags: Mum
 
 # **Next Meeting**
 
-### OWASP Mumbai Online Meetup | 29th June 2024
-
+### OWASP Mumbai Online Meetup | 26th October 2024 - Virtual
 #### Session Details:
 
 Introduction to Owasp and Owasp Mumbai
