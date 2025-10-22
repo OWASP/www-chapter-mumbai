@@ -1,0 +1,24 @@
+leaders:
+  - name: Anant Kumar Joshi
+    email: anant.joshi@owasp.org
+  - name: Yash Roongta
+    email: yash.roongta@owasp.org
+    github: yash-roongta
+location:
+  country: India
+  country_code: IN
+  region: Maharashtra
+  city: Mumbai
+  latitude: 18.9733536
+  longitude: 72.82810491917377
+meetup_group: owasp-mumbai-chapter
+name: OWASP Mumbai
+repositories:
+  - name: www-chapter-mumbai
+    url: https://github.com/OWASP/www-chapter-mumbai
+    description: OWASP Foundation Web Repository
+tags:
+  - Mum
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-mumbai
